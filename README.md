@@ -26,9 +26,9 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-akerele-38837623a/)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DdAkelz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akereledavidd@gmail.com)
 
 ---
 
@@ -38,8 +38,9 @@
 
 ---
 
-### 📊 GitHub Activity Graph
-[![David's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=davidakerele&theme=chartreuse-dark)](https://github.com/davidakerele)
+### 🏅 Achievements
+![Years of Experience](https://img.shields.io/badge/Years%20of%20Experience-5-brightgreen)
+![Projects Completed](https://img.shields.io/badge/Projects%20Completed-50+-blue)
 
 ---
 
