@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on learning 
+- 🌱 I’m currently learning three.js and GSAP, also enthusiastic about Data Science
+- 👯 I’m looking to collaborate on any web / mobile development project
+- 🤔 I’m looking for help with knowledge on data science, artificial intelligence and deep learning
+- 💬 Ask me about react, tailwind and next
+- ⚡ Fun fact: i absolutlely adore bread
 <!--
 **DavidAkerele/DavidAkerele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
