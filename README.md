@@ -33,16 +33,24 @@
 ---
 
 ### 🌟 Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidakerele&repo=your-repo&theme=chartreuse-dark)](https://github.com/davidakerele/your-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidakerele&repo=another-repo&theme=chartreuse-dark)](https://github.com/davidakerele/another-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidakerele&repo=iphone&theme=chartreuse-dark)](https://github.com/davidakerele/iphone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davidakerele&repo=brainwave&theme=chartreuse-dark)](https://github.com/davidakerele/brainwave)
 
 ---
 
-### 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=davidakerele&style=flat-square&color=brightgreen)
+### 📊 GitHub Activity Graph
+[![David's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=davidakerele&theme=chartreuse-dark)](https://github.com/davidakerele)
 
 ---
 
-### 🐍 Snake Eating My Contribution Graph
-![snake gif](https://github.com/davidakerele/davidakerele/blob/output/github-contribution-grid-snake.gif)
+### 😂 Meme of the Day
+<img src="https://api.memegen.link/images/doge/hello_world/my_name_is_doge.png" width="300">
+
+---
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidakerele&theme=chartreuse-dark)](https://git.io/streak-stats)
+
+
+
 
