@@ -7,7 +7,9 @@
 - 💬 Ask me about react, tailwind and next
 - ⚡ Fun fact: i absolutlely adore bread
 
-[![Davids's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidakerele&show_icons=true&theme=chartreuse-dark&hide_rank=true&langs_count=10&layout=pie)](https://github.com/davidakerele/github-readme-stats)
+[![Davids's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidakerele&show_icons=true&theme=chartreuse-dark&hide_rank=true&layout=pie)](https://github.com/davidakerele/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidakerele&layout=compact&langs_count=10)](https://github.com/davidakerele/github-readme-stats)
 <!--
 **DavidAkerele/DavidAkerele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
