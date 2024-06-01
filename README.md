@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bootstrap,git,github,js,nextjs,py,r,react,threejs,ts,vercel,vue,yarn&theme=dark)](https://skillicons.dev)
 
 - 🔭 I’m currently working on learning 
 - 🌱 I’m currently learning three.js and GSAP, also enthusiastic about Data Science
@@ -7,7 +8,7 @@
 - 💬 Ask me about react, tailwind and next
 - ⚡ Fun fact: i absolutlely adore bread
 
-[![Davids's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidakerele&show_icons=true&theme=chartreuse-dark&hide_rank=true&layout=pie)](https://github.com/davidakerele/github-readme-stats)
+[![Davids's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidakerele&show_icons=true&theme=chartreuse-dark&hide_rank=true&layout=pie)](https://github.com/davidakerele/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidakerele&layout=compact&langs_count=20&theme=chartreuse-dark)](https://github.com/davidakerele/github-readme-stats)
 <!--
