@@ -1,16 +1,16 @@
 ## Hi there 👋, I'm Akerele David Damilola
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bootstrap,git,github,js,nextjs,py,r,react,threejs,ts,vercel,vue,yarn&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bootstrap,git,github,js,nextjs,py,r,react,threejs,ts,vercel,gsap,vue,yarn&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on learning and improving my skills
-- 🌱 I’m currently diving deep into three.js and GSAP, and I’m enthusiastic about Data Science
-- 👯 I’m looking to collaborate on any web / mobile development projects
-- 🤔 I’m seeking guidance and knowledge in data science, artificial intelligence, and deep learning
-- 💬 Ask me about React, Tailwind, and Next.js
-- ⚡ Fun fact: I absolutely adore bread
+-🔭 Current Focus: Sharpening my skills and expanding my knowledge base.
+-🌱 Learning Journey: Immersed in the intricacies of three.js and GSAP, while nurturing a passion for Data Science.
+-👯 Collaboration: Eager to team up on innovative web and mobile development projects.
+-🤔 Seeking Wisdom: Looking for insights and mentorship in Data Science, Artificial Intelligence, and Deep Learning.
+-💬 Let's Chat: Reach out to me for discussions on React, Tailwind CSS, and Next.js.
+-⚡ Fun Fact: I have an unwavering love for bread.
 
 ---
 
@@ -39,7 +39,7 @@
 ---
 
 ### 🏅 Achievements
-![Years of Experience](https://img.shields.io/badge/Years%20of%20Experience-5-brightgreen)
+![Years of Experience](https://img.shields.io/badge/Years%20of%20Experience-2-brightgreen)
 ![Projects Completed](https://img.shields.io/badge/Projects%20Completed-50+-blue)
 
 ---
