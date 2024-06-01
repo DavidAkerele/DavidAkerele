@@ -4,13 +4,14 @@
 
 ---
 
-  ### 🚀 About Me
-- 🔭 Current Focus: Sharpening my skills and expanding my knowledge base.
-- 🌱 Learning Journey: Immersed in the intricacies of three.js and GSAP, while nurturing a passion for Data Science.
-- 👯 Collaboration: Eager to team up on innovative web and mobile development projects.
-- 🤔 Seeking Wisdom: Looking for insights and mentorship in Data Science, Artificial Intelligence, and Deep Learning.
-- 💬 Let's Chat: Reach out to me for discussions on React, Tailwind CSS, and Next.js.
-- ⚡ Fun Fact: I have an unwavering love for bread.
+### 🚀 About Me
+- 🔭 **Current Focus**: Sharpening my skills and expanding my knowledge base.
+- 🌱 **Learning Journey**: Immersed in the intricacies of **three.js** and **GSAP**, while nurturing a passion for **Data Science**.
+- 👯 **Collaboration**: Eager to team up on innovative web and mobile development projects.
+- 🤔 **Seeking Wisdom**: Looking for insights and mentorship in **Data Science**, **Artificial Intelligence**, and **Deep Learning**.
+- 💬 **Let's Chat**: Reach out to me for discussions on **React**, **Tailwind CSS**, and **Next.js**.
+- ⚡ **Fun Fact**: I have an unwavering love for **bread**.
+
 
 ---
 
