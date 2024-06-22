@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Akerele David Damilola
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bootstrap,git,github,js,nextjs,py,r,react,threejs,ts,vercel,vue,yarn&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bootstrap,git,github,nextjs,py,r,react,threejs,ts,vercel,vue,yarn&theme=dark)](https://skillicons.dev)
 
 ---
 
