@@ -1,88 +1,85 @@
-To make your GitHub README even cooler, I'll add **interactive elements**, **animated badges**, and **dynamic content** to enhance engagement. This includes **visitor counters, 3D contributions, GitHub metrics, dynamic typing text, and fun elements like "random quotes" or "random memes."**  
-
 ---
 
 # 🚀 **Hey there!** 👋 I'm **Akerele David Damilola**  
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=600&lines=Frontend+Developer;Data+Science+Enthusiast;JavaScript+|+React+|+Next.js;AI+|+Machine+Learning;Lifelong+Learner+%26+Tech+Explorer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Data+Science+Enthusiast;AI+%7C+Machine+Learning+Explorer;React+%7C+Next.js+%7C+Three.js;Always+Learning+%7C+Always+Building;Welcome+to+My+GitHub+Profile!" alt="Typing animation" />
 </p>
 
 ---
 
-## 🌟 **Who Am I?**  
-🔭 **Exploring:** Building seamless **web** & **mobile** applications with a mix of creativity and performance.  
-🌱 **Learning:** **Three.js** & **GSAP** for animations, diving deeper into **Data Science & AI**.  
-👯 **Collaboration:** Love working on **Web, Mobile, AI-driven applications**.  
-🧠 **Seeking Mentorship:** **Data Science, AI, Deep Learning** insights.  
-💬 **Let's Talk Tech!** Specializing in **React, Tailwind CSS, Next.js**.  
-🍞 **Fun Fact:** If you bring bread, we’re besties. 😆  
+## 🏆 **About Me**  
+💻 **Full-Stack Dev** | 🎨 **Creative Thinker** | 🤖 **AI & Data Enthusiast**  
+🔭 **Building:** Scalable web & mobile apps that blend **performance** with **aesthetics**  
+🌱 **Exploring:** **Three.js, GSAP, Data Science, & AI**  
+💡 **Seeking:** Insights in **AI, Deep Learning, and Data Science**  
+💬 **Tech Talks:** Passionate about **React, Next.js, Tailwind CSS**  
+🍞 **Fun Fact:** **Bread** is my weakness 😆  
 
 ---
 
-## 📊 **GitHub Stats & Contributions**
+## 🚀 **Tech Stack**  
 <div align="center">
-  <a href="https://github.com/davidakerele">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidakerele&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  </a>
-  <a href="https://github.com/davidakerele">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidakerele&theme=tokyonight" width="48%" />
-  </a>
-</div>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,threejs,vercel,vue,py,r,arduino,bootstrap,git,github&theme=dark" alt="Tech Stack" />
+</div>  
 
+---
+
+## 📊 **GitHub Stats & Activity**  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davidakerele&theme=onestar&no-frame=true&margin-w=15" width="80%" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=davidakerele&show_icons=true&theme=radical&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=davidakerele&theme=radical" width="48%" alt="GitHub Streak" />
+</div>  
 
-### **💠 3D Contribution Graph**
-[![3D Contribution Graph](https://github.com/davidakerele/davidakerele/blob/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/davidakerele)
-
----
-
-## 🌐 **Find Me Online**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-akerele-38837623a/)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DdAkelz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akereledavidd@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=davidakerele&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
+### **💡 Top Languages & Contributions**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidakerele&layout=compact&theme=radical&langs_count=10" width="48%" alt="Top Languages" />
+</div>  
 
 ---
 
-## 🏆 **Featured Projects**
+## 🌎 **Connect with Me**  
+<div align="center">
+  <a href="https://www.linkedin.com/in/david-akerele-38837623a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/DdAkelz">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:akereledavidd@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=davidakerele&label=PROFILE+VIEWS&color=blue&style=for-the-badge" />
+</div>  
+
+---
+
+## 🔥 **Featured Projects**  
 <div align="center">
   <a href="https://github.com/davidakerele/iphone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidakerele&repo=iphone&theme=tokyonight" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidakerele&repo=iphone&theme=radical" width="45%" />
   </a>
   <a href="https://github.com/davidakerele/brainwave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidakerele&repo=brainwave&theme=tokyonight" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=davidakerele&repo=brainwave&theme=radical" width="45%" />
   </a>
-</div>
+</div>  
 
 ---
 
-## 🎯 **Developer Metrics**
-📊 **My GitHub Metrics** (Click to Expand)  
-<a href="https://github.com/davidakerele">
-  <img src="https://github.com/davidakerele/davidakerele/blob/main/github-metrics.svg" alt="Metrics" width="100%"/>
-</a>
-
----
-
-## 🎭 **Meme of the Day**
+## 🎭 **Meme of the Day**  
 <p align="center">
   <img src="https://api.memegen.link/images/doge/hello_world/my_name_is_doge.png" width="300" alt="Meme of the day"/>
-</p>
+</p>  
 
 ---
 
-## 🔥 **Fun & Interactive**
-- **🌟 Random Dev Quote**
-  > ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+## 🎯 **Cool Interactive Stuff**  
+- **🔹 Random Dev Quote:**  
+  > ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-- **🎮 Play a Snake Game on My Contributions**
-  ![Snake animation](https://github.com/davidakerele/davidakerele/blob/output/github-contribution-grid-snake.svg)
+- **🎮 Play with My Contribution Graph**
+  ![GitHub Contribution Snake](https://raw.githubusercontent.com/davidakerele/davidakerele/output/github-contribution-grid-snake-dark.svg)  
 
----
-
-### 🚀 **Let’s Build Something Amazing!** 😎  
+- **🌎 Live Coding & Repositories:**  
+  > Stay tuned for my next live coding session on **Twitch & YouTube!**  
 
 ---
